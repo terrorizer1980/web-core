@@ -23,6 +23,6 @@
   },
   "gitHead": "ca18a425404a7ffc52cbaf7d7db7dd1d19525a70",
   "dependencies": {
-    "@types/axios": "^0.14.0"
+    "@types/axios": "^0.14.4"
   }
 }
